@@ -57,18 +57,6 @@ Whether you're applying for 5 or 50 jobs, ResumeMailer AI makes the process seam
 
 ---
 
-## 🖥️ Demo & Screenshots
-
-### 🎥 Demo Video  
-Watch ResumeMailer AI in action: [🔗 YouTube Video Link]
-
-### 🖼️ Screenshots  
-| Dashboard | Job Tracker |
-|----------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Tracker](screenshots/tracker.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer         | Technology                     |
