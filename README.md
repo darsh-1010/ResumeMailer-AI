@@ -90,7 +90,7 @@ Watch ResumeMailer AI in action: [🔗 YouTube Video Link]
 git clone https://github.com/yourusername/ResumeMailerAI.git
 cd ResumeMailerAI 
 
-2. ** Run the app**
+2. **Run the app**
 
 streamlit run app.py
 
